@@ -38,6 +38,21 @@ Section II
  Section III 
  
  1. Train models
- 
+ 2. Define Caption Generation Models 
+ 3. Save models 
+
+Section IV
+
+1. Evaluate caption generation model performance using BLEU Score 
+
+Section V
+
+1. Predict/generate captions for images 
+
+
+Section VI  Deployment 
+
+
+
  
  
