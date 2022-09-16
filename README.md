@@ -52,7 +52,7 @@ Section V
 
 Section VI  Deployment 
 
-
+1. Deploy model to a Streamit App 
 
  
  
